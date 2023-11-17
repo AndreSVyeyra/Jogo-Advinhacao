@@ -1,2 +1,5 @@
-# Jogo-Advinhacao
-O objetivo do projeto e mostra em formato web um jogo de advinhação
+# jogo do número secreto
+
+## Objetivo
+
+ A pessoa usuária precisará inserir alguns números para adivinhar qual foi o número aleatório gerado pelo computador.
